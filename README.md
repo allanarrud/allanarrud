@@ -1,7 +1,7 @@
 
-#Olá, me chamo Allan Arruda
-#Bem vindos ao meu perfil GitHub!
-#Tenho 29 anos, moro em Belém-PA e sou apaixonado por tecnologia e jogos. Sou iniciante no universo de programação, quanto mais eu aprendo e passo raiva, mais eu amo esse mundo! 
+Olá, me chamo Allan Arrudac<br>
+Bem vindos ao meu perfil GitHub!<br>
+Tenho 29 anos, moro em Belém-PA e sou apaixonado por tecnologia e jogos. Sou iniciante no universo de programação, quanto mais eu aprendo e passo raiva, mais eu amo esse mundo! <br> 
 
 - 🔭 Atualmente estou trabalhando como Gerente Comercial.
 - 🌱 Desenvolvedor FullStack em formação.
