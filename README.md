@@ -1,68 +1,118 @@
 # 👋 Olá, eu sou Allan Arruda
 
-Bem-vindo ao meu perfil no GitHub!
+💻 **Data Analyst em formação | Python • SQL • Power BI • Automação**
 
-Sou apaixonado por tecnologia e atualmente estou migrando minha carreira para a área de **Dados e Automação de Processos**.  
-Gosto de transformar problemas do mundo real em soluções utilizando **Python, SQL e ferramentas de análise de dados**.
+Sou apaixonado por tecnologia e atualmente estou migrando minha carreira para a área de **Análise de Dados e Automação de Processos**.
+
+Tenho experiência prática aplicando tecnologia em **negócios reais**, automatizando processos e organizando dados para tomada de decisão.
 
 📍 Belém - PA, Brasil
 
 ---
 
-## 🚀 Atualmente
+# 🚀 Sobre mim
 
-- 📊 Trabalhando com **controle de dados e processos de estoque**
-- 🐍 Desenvolvendo **automações com Python**
-- 📈 Criando **dashboards e análises com Power BI**
-- 🗂 Integrando **Google Sheets com scripts automatizados**
-- 💻 Estudando **Análise de Dados e Engenharia de Dados**
+- 📊 Trabalho com **controle e organização de dados**
+- 🐍 Desenvolvimento de **automações com Python**
+- 📈 Criação de **dashboards e análises com Power BI**
+- 🗂 Integração de **Google Sheets com scripts automatizados**
+- 💻 Desenvolvimento ocasional de **Landing Pages**
+
+Atualmente estou focado em evoluir como **Analista de Dados**.
 
 ---
 
-## 🛠 Tecnologias que utilizo
+# 🛠 Tecnologias e Ferramentas
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,mysql,js,html,css" />
-</p>
+### Linguagens
 
-**Ferramentas de Dados**
+![Python](https://skillicons.dev/icons?i=python)
+![SQL](https://skillicons.dev/icons?i=mysql)
+![JavaScript](https://skillicons.dev/icons?i=js)
 
-- Python
-- MySQL
-- Google Sheets
+### Front-end
+
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+
+### Ferramentas de Dados
+
 - Power BI
+- Google Sheets
 - Excel
+- MySQL
+
+---
+
+# 📂 Projetos em Destaque
+
+### 📦 Controle de Estoque Automatizado
+Sistema desenvolvido em **Python + Google Sheets API** que monitora estoque e envia alertas automáticos quando produtos atingem limite mínimo.
+
+Tecnologias utilizadas:
+- Python
+- Google Sheets API
 - Automação de processos
 
 ---
 
-## 📂 Projetos em destaque
+### 🌿 Landing Page - Monte Sinai Ervas
 
-🔹 **Controle de Estoque Automatizado**  
-Sistema que integra **Python + Google Sheets** para monitorar estoque e enviar alertas automáticos via WhatsApp.
+Landing page desenvolvida para uma loja real de ervas naturais.
 
-🔹 **Landing Page - Loja Monte Sinai**  
-Landing page desenvolvida com **HTML, CSS e JavaScript** para apresentação de produtos e contato com clientes.
+Tecnologias utilizadas:
 
-🔹 **Organização de Dados de Produtos**  
-Scripts em **Python** para limpar e estruturar grandes listas de produtos e estoques.
+- HTML
+- CSS
+- JavaScript
+- Tailwind
 
 ---
 
-## 📚 Atualmente estudando
+### 📊 Organização e Tratamento de Dados
+
+Scripts em **Python** criados para organizar grandes listas de produtos e dados de estoque.
+
+Processos aplicados:
+
+- Limpeza de dados
+- Padronização
+- Estruturação para análise
+
+---
+
+# 📚 Atualmente estudando
 
 - Análise de Dados
 - SQL avançado
-- Python para automação
+- Python para Data Analysis
 - Visualização de dados
+- Power BI
+
+---
+
+# 📊 Estatísticas do GitHub
+
+![Allan GitHub stats](https://github-readme-stats.vercel.app/api?username=allanarrud&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allanarrud&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Contato
 
-💼 LinkedIn  
-📧 Email  
+<p align="left">
+
+<a href="https://www.linkedin.com/in/allan-arruda-2b054b301/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:allan.tech0134@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-⭐ Sempre buscando aprender, melhorar e transformar dados em decisões.
+⭐ Sempre buscando aprender, evoluir e transformar dados em decisões.
